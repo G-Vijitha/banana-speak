@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+:root{
+    --primary-color:#cf44a5;
+    --off-white:#eaf5f3;
+    --dark-gray:#6b7280;
+}
+ 
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    text-align: center;
+    color: rgb(8, 8, 1);
+    font-weight: bold;
+    /* background-color: rgb(80, 246, 255); */
+    background-image: url("images/minions.jpg");
+}
+
+/* button{
+    /* color:yellow;
+    font-style:italic;
+    background-color: rgb(16, 16, 0); //
+    background-color: #e6a21b;
+    border:1px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    /* text-decoration: none; 
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    /* cursor: pointer; 
+} */
+
+
+textarea{
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+    padding: 3rem;
+    align-content: center;
+}
+#output{
+    border: 1px solid black;
+    background-color: white;
+    height: 10vh;
+    display: block;
+    width: 80%;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+    padding: 3rem;
+    align-content: center;
+}
